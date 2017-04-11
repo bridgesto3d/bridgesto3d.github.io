@@ -94,7 +94,6 @@ img {
     float: left;
     padding: 0 0 0 0;
     background: #FFFFFF;
-	background-image: url('img/santiago-chile-faded.jpg');
 }
 
 #logo * {
@@ -193,7 +192,7 @@ img {
 
 /* Organizer */
 #organizer img {
-    width: 150px;
+/*    width: 150px; */
 /*    height: 170px;*/
 }
 
