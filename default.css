@@ -82,7 +82,7 @@ img {
 /* Header */
 
 #header {
-    width: 917px;
+    width: 950px;
 	height: 150px;
     margin: 0 auto;
 }
@@ -129,7 +129,7 @@ img {
     float: left;
     padding: 10px 0 10px 0px;
     background: #FFFFFF;
-	
+
 	border-bottom: 1px solid #F4F4F4;
 	border-top: 1px solid #F4F4F4;
 }
@@ -164,7 +164,7 @@ img {
 /* Splash */
 
 #splash {
-    width: 877px;
+    width: 910px;
     margin: 0 auto;
     border-right: 20px solid #FFFFFF;
     border-left: 20px solid #FFFFFF;
